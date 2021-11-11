@@ -1,32 +1,14 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Beschrijving Squadpagina
+Welkom op mijn proces bij het maken van een Squadpagina
+Het was hierbij de bedoeling in een projectgroepje samen een squadpagina met visitekaartjes 
+van de klas te realiseren.
 
-## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+Hierbij een overzicht van mijn proces : [Proces Squadpagina](https://github.com/aajubitana/fdnd-squad-page-autonomous/wiki)
 
-## Inhoudsopgave
+De live versie eindproduct : [squadpage Brain](https://bra1n.student.fdnd.nl/)
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
-## Kenmerken
+![eindresultaatsquadpage](https://github.com/aajubitana/fdnd-squad-page-autonomous/blob/main/bijlage/squadpageeindresultaat.png)
 
-## Installatie
-
-## Gebruik
-
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
 
